@@ -1,0 +1,22 @@
+{
+  "name": "backbone-todos",
+  "version": "0.0.0",
+  "homepage": "https://github.com/viktorstaikov/backbone-todos",
+  "authors": [
+    "Viktor Staikov <viktor.staikov@telerik.com>"
+  ],
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "backbone": "~1.1.2"
+  },
+  "private": true
+}
